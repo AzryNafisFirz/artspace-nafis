@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Art Space - 86 Eighty Six</string>
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+
+    <!-- Slide 1 -->
+    <string name="artwork_1_title">86 - Eighty Six: Spearhead Squad</string>
+    <string name="artwork_1_artist">Asato Asato (Penulis) &amp; Shirab (Ilustrator)</string>
+    <string name="artwork_1_year">2021</string>
+    <string name="artwork_1_desc">Musim pertama mengisahkan Republik San Magnolia yang mengklaim perang tanpa korban jiwa melawan Kekaisaran Giad. Faktanya, para pemuda yang mendiami Distrik ke-86 dipaksa mengendarai unit Juggernaut untuk bertempur di garis depan di bawah komando Handler Vladilena Milizé dan Kapten Shinei Nouzen.</string>
+
+    <!-- Slide 2 -->
+    <string name="artwork_2_title">86 - Eighty Six: Giad Federal Republic Arc</string>
+    <string name="artwork_2_artist">Toshimasa Ishii (Sutradara) &amp; A-1 Pictures</string>
+    <string name="artwork_2_year">2021</string>
+    <string name="artwork_2_desc">Bagian kedua melanjutkan perjuangan Shin dan para penyintas skuadron Spearhead di Federasi Giad. Meski telah mendapatkan kehidupan yang damai, mereka memilih kembali ke medan tempur demi menghormati ingatan rekan-rekan yang gugur dan menghadapi ancaman senjata pemusnah Morpho.</string>
+
+    <!-- Slide 3 -->
+    <string name="artwork_3_title">86 - Eighty Six: Light Novel Edition</string>
+    <string name="artwork_3_artist">Asato Asato (Penulis) &amp; Shirab (Ilustrator)</string>
+    <string name="artwork_3_year">2017</string>
+    <string name="artwork_3_desc">Cover resmi Light Novel 86 karya Asato Asato dengan ilustrasi oleh Shirab. Menggambarkan sosok Vladilena Milizé dan Shinei Nouzen dalam balutan seragam militer Republik San Magnolia di tengah kecamuk perang melawan Legion.</string>
+
+    <!-- Slide 4 -->
+    <string name="artwork_4_title">86: Fragmental Neoteny</string>
+    <string name="artwork_4_artist">Shinpei Yamasono &amp; Shirab (Kadokawa)</string>
+    <string name="artwork_4_year">2021</string>
+    <string name="artwork_4_desc">Cover resmi manga prekuel 86: Fragmental Neoteny. Mengisahkan masa lalu Shinei Nouzen (Shin) sebelum menjadi komandan Spearhead, mengungkap awal mula perjuangan hidupnya sebagai pilot Juggernaut di medan perang.</string>
+
+    <!-- Slide 5 -->
+    <string name="artwork_5_title">86: Field of Red Spider Lilies</string>
+    <string name="artwork_5_artist">A-1 Pictures &amp; Aniplex Studio</string>
+    <string name="artwork_5_year">2021</string>
+    <string name="artwork_5_desc">Visual sinematik ikonik dengan hamparan bunga Red Spider Lilies (Lycoris Radiata). Bunga merah ini melambangkan perpisahan tragis, penghormatan, dan janji pertemuan kembali antara Lena dan seluruh anggota pasukan Eighty-Six di masa depan.</string>
+</resources>
